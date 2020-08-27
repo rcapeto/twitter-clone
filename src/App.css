@@ -11,3 +11,7 @@
   --twitter-dark-hover: #011017;
   --twitter-light-hover: #2C8ED6;
 }
+
+.app {
+  display: flex;
+}
